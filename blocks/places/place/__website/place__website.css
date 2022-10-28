@@ -1,0 +1,14 @@
+.place__website {
+    align-self: end;
+}
+
+@media screen and (max-width:544px){
+    .place__website  {
+        align-self: baseline;
+        font-size: 18px;
+        line-height: 22px;
+        max-width: 288px;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}

@@ -1,0 +1,13 @@
+.header__lang-links {
+    list-style-type: none;
+    display: flex;
+    padding: 0px;
+    font-size: 24px;
+    margin: 0px;
+}
+
+@media screen and (max-width:767px){
+    .header__lang-links {
+        font-size: 18px;
+    }
+}
