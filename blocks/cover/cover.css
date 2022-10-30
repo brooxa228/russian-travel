@@ -1,5 +1,5 @@
 .cover {
-    margin: 0 auto 98px;
+    margin: 92px auto 92px;
     max-width: 1184px;
     min-height: 740px;
 }
@@ -12,14 +12,16 @@
 
 @media screen and (max-width:896px) {
     .cover {
+        margin-top: 90px;
+        margin-bottom: 88px;
         min-height: 480px;
-        margin: 0;
     }
 }
 
 @media screen and (max-width:544px) {
     .cover {
+        margin-top: 66px;
+        margin-bottom: 64px;
         min-height: 200px;
-        margin: 0;
     }
 }

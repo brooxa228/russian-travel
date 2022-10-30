@@ -16,14 +16,5 @@
     .lead {
     padding-left: 0;
     padding-right: 0;
-    margin-top: 48px;
-    }
-}
-
-@media screen and (max-width:544px) {
-    .lead {
-    padding-left: 0;
-    padding-right: 0;
-    margin-top: 48px;
     }
 }
