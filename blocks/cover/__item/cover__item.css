@@ -50,7 +50,6 @@
 @media screen and (max-width:544px) {
     .cover__item {
         min-height: 200px;
-        margin: 0;
     }
 }
 

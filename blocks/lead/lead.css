@@ -6,15 +6,15 @@
 
 @media screen and (max-width:1024px) {
     .lead {
-    padding-left: 48px;
-    padding-right: 48px;
-    margin-top: 48px;
+        padding-left: 48px;
+        padding-right: 48px;
+        margin-top: 48px;
     }
 }
 
 @media screen and (max-width:896px) {
     .lead {
-    padding-left: 0;
-    padding-right: 0;
+        padding-left: 0;
+        padding-right: 0;
     }
 }
